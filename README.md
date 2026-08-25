@@ -45,5 +45,4 @@ A passionate Web Application Developer with a desire to explore more about softw
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardoteless&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=leonardoteless&show_icons=true&theme=catppuccin_mocha)
