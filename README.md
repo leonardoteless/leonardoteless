@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB6B80,100:3178C6&height=180&section=header&text=Leonardo%20Teles&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20JavaScript%20%E2%80%A2%20TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=58&descSize=16" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&pause=1200&color=DB6B80&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+applications;Full+Stack+Developer+in+Formation;Open+to+my+first+opportunity+in+tech" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&pause=1200&color=DB6B80&center=true&vCenter=true&width=700&lines=Construindo+aplica%C3%A7%C3%B5es+web+limpas+e+escal%C3%A1veis;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Aberto+%C3%A0+minha+primeira+oportunidade+em+tecnologia" alt="Animação de digitação" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 I hold a degree in **Systems Analysis and Development** and I'm building my career as a **Full Stack Developer** with **JavaScript** and **TypeScript**. I enjoy turning ideas into reliable, well-structured applications, from the interface to the API, with attention to code quality, performance and security.
 
-- 🎯 **Currently seeking** my first opportunity in the technology field
+- 🎯 **seeking** my first opportunity in the technology field
 - 🌱 **Currently learning:** Node.js, Express, NoSQL, React (Hooks), Redux, Design Patterns and Cybersecurity
 - 🧠 **Focus:** clean code, scalable architecture and continuous improvement
 - 🤝 **Open to:** junior / internship roles, collaborations and open-source contributions
@@ -63,15 +63,12 @@ I hold a degree in **Systems Analysis and Development** and I'm building my care
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoteless&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DB6B80&icon_color=3178C6" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoteless&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DB6B80" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoteless&theme=tokyonight&hide_border=true&background=0D1117&ring=DB6B80&fire=DB6B80&currStreakLabel=DB6B80" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats-leonardoteless.vercel.app/api?username=leonardoteless&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DB6B80&icon_color=3178C6&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats-leonardoteless.vercel.app/api/top-langs/?username=leonardoteless&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DB6B80&locale=pt-br" alt="Linguagens mais usadas" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoteless&theme=tokyonight&hide_border=true&background=0D1117&ring=DB6B80&fire=DB6B80&currStreakLabel=DB6B80&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:DB6B80&height=100&section=footer" alt="Footer" />
-
-</div>
