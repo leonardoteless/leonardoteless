@@ -9,11 +9,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DB6B80?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=DB6B80&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=leonardoteless&label=Profile%20views&color=DB6B80&style=flat)
 
 </div>
 
