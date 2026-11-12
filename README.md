@@ -11,8 +11,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-DB6B80?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=leonardoteless&label=Profile%20views&color=DB6B80&style=flat)
-
 </div>
 
 ---
